@@ -308,3 +308,7 @@ h2 {
 #footer-bottom a {
     color: #8f8f8f;
 }
+
+#footer-bottom span a:hover {
+    color: #4d4ddb;
+}
